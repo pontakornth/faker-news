@@ -1,0 +1,6 @@
+Some thieves stole diamond from store.
+Bank {0} is robbed again.
+{0} killed {1} with a knife because of girlfriend!
+The famous superstar {0} turn out to be a thief!
+The polices caught {0} the serial killer!!
+Serial killer appeared in {0}

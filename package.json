@@ -1,0 +1,13 @@
+{
+  "name": "faker-news",
+  "version": "1.0.0",
+  "description": "Fake news generator",
+  "main": "index.js",
+  "repository": "https://github.com/pontakornth/faker-news",
+  "author": "MMK",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "lodash": "^4.17.5"
+  }
+}
